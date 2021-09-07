@@ -1,4 +1,4 @@
-# CRUD_Application_Node
+#User Management App 
 In this project, we are going to create node CRUD application with express and mongodb.
 
 ### Before running check your node version , make sure it is version 14
